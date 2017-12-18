@@ -7,7 +7,7 @@
   background-size:4401px 2200px;
   position:static;
   left:auto;
-  width:1086px;
+  width:1023px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -210,33 +210,5 @@
   left:2px;
   top:24px;
   width:139px;
-  word-wrap:break-word;
-}
-#u10_div {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:140px;
-  height:72px;
-  background:inherit;
-  background-color:rgba(22, 155, 213, 1);
-  border:none;
-  border-radius:5px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-}
-#u10 {
-  position:absolute;
-  left:946px;
-  top:497px;
-  width:140px;
-  height:72px;
-}
-#u11 {
-  position:absolute;
-  left:2px;
-  top:28px;
-  width:136px;
   word-wrap:break-word;
 }
