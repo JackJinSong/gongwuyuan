@@ -7,7 +7,7 @@
   background-size:1920px 900px;
   position:static;
   left:auto;
-  width:1307px;
+  width:1549px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -25,8 +25,8 @@
 }
 #u30 {
   position:absolute;
-  left:446px;
-  top:87px;
+  left:688px;
+  top:108px;
   width:129px;
   height:55px;
   font-family:'SnellRoundhand-Black', 'Snell Roundhand Black', 'Snell Roundhand';
@@ -51,8 +51,8 @@
 }
 #u32 {
   position:absolute;
-  left:108px;
-  top:87px;
+  left:350px;
+  top:108px;
   width:129px;
   height:55px;
   font-family:'SnellRoundhand-Black', 'Snell Roundhand Black', 'Snell Roundhand';
@@ -77,8 +77,8 @@
 }
 #u34 {
   position:absolute;
-  left:833px;
-  top:87px;
+  left:1075px;
+  top:108px;
   width:129px;
   height:55px;
   font-family:'SnellRoundhand-Black', 'Snell Roundhand Black', 'Snell Roundhand';
@@ -103,8 +103,8 @@
 }
 #u36 {
   position:absolute;
-  left:1178px;
-  top:87px;
+  left:1420px;
+  top:108px;
   width:129px;
   height:55px;
   font-family:'SnellRoundhand-Black', 'Snell Roundhand Black', 'Snell Roundhand';
@@ -140,8 +140,8 @@
 }
 #u38 {
   position:absolute;
-  left:19px;
-  top:10px;
+  left:0px;
+  top:40px;
   width:77px;
   height:22px;
   font-family:'Arial-BoldItalicMT', 'Arial Bold Italic', 'Arial';
@@ -176,8 +176,8 @@
 }
 #u40 {
   position:absolute;
-  left:185px;
-  top:10px;
+  left:166px;
+  top:40px;
   width:274px;
   height:22px;
   font-family:'Arial-BoldItalicMT', 'Arial Bold Italic', 'Arial';
@@ -201,8 +201,8 @@
 }
 #u42 {
   position:absolute;
-  left:108px;
-  top:219px;
+  left:350px;
+  top:240px;
   width:1199px;
   height:4px;
 }
@@ -234,8 +234,8 @@
 }
 #u44 {
   position:absolute;
-  left:588px;
-  top:335px;
+  left:830px;
+  top:356px;
   width:55px;
   height:25px;
   font-family:'Impact';
@@ -252,8 +252,8 @@
 }
 #u46 {
   position:absolute;
-  left:643px;
-  top:336px;
+  left:885px;
+  top:357px;
   width:226px;
   height:30px;
 }
@@ -294,8 +294,8 @@
 }
 #u47 {
   position:absolute;
-  left:588px;
-  top:426px;
+  left:830px;
+  top:447px;
   width:55px;
   height:25px;
   font-family:'Impact';
@@ -312,8 +312,8 @@
 }
 #u49 {
   position:absolute;
-  left:643px;
-  top:430px;
+  left:885px;
+  top:451px;
   width:100px;
   height:22px;
   font-size:16px;
@@ -332,8 +332,8 @@
 }
 #u51 {
   position:absolute;
-  left:801px;
-  top:430px;
+  left:1043px;
+  top:451px;
   width:100px;
   height:22px;
   font-size:16px;
@@ -359,8 +359,8 @@
 }
 #u53 {
   position:absolute;
-  left:686px;
-  top:525px;
+  left:928px;
+  top:546px;
   width:140px;
   height:40px;
   font-family:'SnellRoundhand-Black', 'Snell Roundhand Black', 'Snell Roundhand';
@@ -384,7 +384,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   background-size:1920px 900px;
   position:static;
   left:auto;
-  width:1307px;
+  width:1549px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -487,8 +487,8 @@ body.a {  background-color:rgba(255, 255, 255, 1);
 }
 #u46.a {
   position:absolute;
-  left:643px;
-  top:336px;
+  left:885px;
+  top:357px;
   width:226px;
   height:30px;
 }
@@ -560,7 +560,7 @@ body.b {  background-color:rgba(255, 255, 255, 1);
   background-size:1920px 900px;
   position:static;
   left:auto;
-  width:1307px;
+  width:1549px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -663,8 +663,8 @@ body.b {  background-color:rgba(255, 255, 255, 1);
 }
 #u46.b {
   position:absolute;
-  left:643px;
-  top:336px;
+  left:885px;
+  top:357px;
   width:226px;
   height:30px;
 }
@@ -736,7 +736,7 @@ body.c {  background-color:rgba(255, 255, 255, 1);
   background-size:1920px 900px;
   position:static;
   left:auto;
-  width:1307px;
+  width:1549px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -839,8 +839,8 @@ body.c {  background-color:rgba(255, 255, 255, 1);
 }
 #u46.c {
   position:absolute;
-  left:643px;
-  top:336px;
+  left:885px;
+  top:357px;
   width:226px;
   height:30px;
 }
@@ -912,7 +912,7 @@ body.d {  background-color:rgba(255, 255, 255, 1);
   background-size:1920px 900px;
   position:static;
   left:auto;
-  width:1307px;
+  width:1549px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -1015,8 +1015,8 @@ body.d {  background-color:rgba(255, 255, 255, 1);
 }
 #u46.d {
   position:absolute;
-  left:643px;
-  top:336px;
+  left:885px;
+  top:357px;
   width:226px;
   height:30px;
 }
