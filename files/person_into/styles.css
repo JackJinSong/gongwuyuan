@@ -1,13 +1,13 @@
 ﻿body {
   margin:0px;
-  background-image:url('../../images/point_look/bg.jpg');
+  background-image:url('../../images/leader/bg.jpg');
   background-position:left top;
   background-repeat:no-repeat;
   background-attachment:scroll;
-  background-size:1920px 900px;
+  background-size:1425px 801px;
   position:static;
   left:auto;
-  width:1516px;
+  width:1304px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -36,8 +36,8 @@
 }
 #u301 {
   position:absolute;
-  left:789px;
-  top:330px;
+  left:548px;
+  top:306px;
   width:55px;
   height:25px;
   font-family:'Impact';
@@ -54,8 +54,8 @@
 }
 #u303 {
   position:absolute;
-  left:844px;
-  top:331px;
+  left:603px;
+  top:307px;
   width:226px;
   height:30px;
 }
@@ -96,8 +96,8 @@
 }
 #u304 {
   position:absolute;
-  left:789px;
-  top:421px;
+  left:548px;
+  top:397px;
   width:55px;
   height:25px;
   font-family:'Impact';
@@ -114,8 +114,8 @@
 }
 #u306 {
   position:absolute;
-  left:844px;
-  top:425px;
+  left:603px;
+  top:401px;
   width:100px;
   height:22px;
   font-size:16px;
@@ -134,8 +134,8 @@
 }
 #u308 {
   position:absolute;
-  left:1002px;
-  top:425px;
+  left:761px;
+  top:401px;
   width:100px;
   height:22px;
   font-size:16px;
@@ -161,8 +161,8 @@
 }
 #u310 {
   position:absolute;
-  left:877px;
-  top:547px;
+  left:636px;
+  top:523px;
   width:140px;
   height:40px;
   font-family:'STSongti-SC-Black', 'Songti SC Black', 'Songti SC';
@@ -187,8 +187,8 @@
 }
 #u312 {
   position:absolute;
-  left:317px;
-  top:84px;
+  left:105px;
+  top:99px;
   width:129px;
   height:55px;
   font-family:'SnellRoundhand-Black', 'Snell Roundhand Black', 'Snell Roundhand';
@@ -213,8 +213,8 @@
 }
 #u314 {
   position:absolute;
-  left:1387px;
-  top:84px;
+  left:1175px;
+  top:99px;
   width:129px;
   height:55px;
   font-family:'SnellRoundhand-Black', 'Snell Roundhand Black', 'Snell Roundhand';
@@ -311,8 +311,8 @@
 }
 #u320 {
   position:absolute;
-  left:317px;
-  top:216px;
+  left:105px;
+  top:231px;
   width:1199px;
   height:4px;
 }
@@ -333,8 +333,8 @@
 }
 #u322 {
   position:absolute;
-  left:881px;
-  top:84px;
+  left:669px;
+  top:99px;
   width:129px;
   height:55px;
   font-family:'SnellRoundhand-Black', 'Snell Roundhand Black', 'Snell Roundhand';
@@ -351,14 +351,14 @@
   word-wrap:break-word;
 }
 body.a {  background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/point_look/bg.jpg');
+  background-image:url('../../images/leader/bg.jpg');
   background-position:left top;
   background-repeat:no-repeat;
   background-attachment:scroll;
-  background-size:1920px 900px;
+  background-size:1425px 801px;
   position:static;
   left:auto;
-  width:1516px;
+  width:1304px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -387,8 +387,8 @@ body.a {  background-color:rgba(255, 255, 255, 1);
 }
 #u303.a {
   position:absolute;
-  left:844px;
-  top:331px;
+  left:603px;
+  top:307px;
   width:226px;
   height:30px;
 }
@@ -521,14 +521,14 @@ body.a {  background-color:rgba(255, 255, 255, 1);
 #u323.a {
 }
 body.b {  background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/point_look/bg.jpg');
+  background-image:url('../../images/leader/bg.jpg');
   background-position:left top;
   background-repeat:no-repeat;
   background-attachment:scroll;
-  background-size:1920px 900px;
+  background-size:1425px 801px;
   position:static;
   left:auto;
-  width:1516px;
+  width:1304px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -557,8 +557,8 @@ body.b {  background-color:rgba(255, 255, 255, 1);
 }
 #u303.b {
   position:absolute;
-  left:844px;
-  top:331px;
+  left:603px;
+  top:307px;
   width:226px;
   height:30px;
 }
@@ -691,14 +691,14 @@ body.b {  background-color:rgba(255, 255, 255, 1);
 #u323.b {
 }
 body.c {  background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/point_look/bg.jpg');
+  background-image:url('../../images/leader/bg.jpg');
   background-position:left top;
   background-repeat:no-repeat;
   background-attachment:scroll;
-  background-size:1920px 900px;
+  background-size:1425px 801px;
   position:static;
   left:auto;
-  width:1516px;
+  width:1304px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -727,8 +727,8 @@ body.c {  background-color:rgba(255, 255, 255, 1);
 }
 #u303.c {
   position:absolute;
-  left:844px;
-  top:331px;
+  left:603px;
+  top:307px;
   width:226px;
   height:30px;
 }
@@ -861,14 +861,14 @@ body.c {  background-color:rgba(255, 255, 255, 1);
 #u323.c {
 }
 body.d {  background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/point_look/bg.jpg');
+  background-image:url('../../images/leader/bg.jpg');
   background-position:left top;
   background-repeat:no-repeat;
   background-attachment:scroll;
-  background-size:1920px 900px;
+  background-size:1425px 801px;
   position:static;
   left:auto;
-  width:1516px;
+  width:1304px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -897,8 +897,8 @@ body.d {  background-color:rgba(255, 255, 255, 1);
 }
 #u303.d {
   position:absolute;
-  left:844px;
-  top:331px;
+  left:603px;
+  top:307px;
   width:226px;
   height:30px;
 }

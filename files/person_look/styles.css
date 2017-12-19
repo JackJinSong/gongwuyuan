@@ -1,13 +1,13 @@
 ﻿body {
   margin:0px;
-  background-image:url('../../images/point_look/bg.jpg');
+  background-image:url('../../images/leader/bg.jpg');
   background-position:left top;
   background-repeat:no-repeat;
   background-attachment:scroll;
-  background-size:1920px 900px;
+  background-size:1425px 801px;
   position:static;
   left:auto;
-  width:1513px;
+  width:1126px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -33,8 +33,8 @@
 }
 #u206 {
   position:absolute;
-  left:766px;
-  top:326px;
+  left:518px;
+  top:332px;
   width:113px;
   height:40px;
   font-size:28px;
@@ -63,8 +63,8 @@
 }
 #u208 {
   position:absolute;
-  left:879px;
-  top:326px;
+  left:631px;
+  top:332px;
   width:141px;
   height:36px;
   font-size:28px;
@@ -93,8 +93,8 @@
 }
 #u210 {
   position:absolute;
-  left:766px;
-  top:407px;
+  left:518px;
+  top:413px;
   width:141px;
   height:40px;
   font-size:28px;
@@ -123,8 +123,8 @@
 }
 #u212 {
   position:absolute;
-  left:907px;
-  top:407px;
+  left:659px;
+  top:413px;
   width:141px;
   height:36px;
   font-size:28px;
@@ -153,8 +153,8 @@
 }
 #u214 {
   position:absolute;
-  left:766px;
-  top:504px;
+  left:518px;
+  top:510px;
   width:141px;
   height:40px;
   font-size:28px;
@@ -183,8 +183,8 @@
 }
 #u216 {
   position:absolute;
-  left:919px;
-  top:471px;
+  left:671px;
+  top:477px;
   width:141px;
   height:36px;
   font-size:28px;
@@ -201,15 +201,15 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:140px;
-  height:66px;
+  width:119px;
+  height:64px;
 }
 #u218 {
   position:absolute;
-  left:1384px;
-  top:120px;
-  width:129px;
-  height:55px;
+  left:1018px;
+  top:139px;
+  width:108px;
+  height:53px;
   font-family:'SnellRoundhand-Black', 'Snell Roundhand Black', 'Snell Roundhand';
   font-weight:900;
   font-style:normal;
@@ -219,23 +219,23 @@
 #u219 {
   position:absolute;
   left:2px;
-  top:11px;
-  width:125px;
+  top:10px;
+  width:104px;
   word-wrap:break-word;
 }
 #u220_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:140px;
-  height:66px;
+  width:119px;
+  height:74px;
 }
 #u220 {
   position:absolute;
-  left:652px;
-  top:120px;
-  width:129px;
-  height:55px;
+  left:461px;
+  top:139px;
+  width:108px;
+  height:63px;
   font-family:'SnellRoundhand-Black', 'Snell Roundhand Black', 'Snell Roundhand';
   font-weight:900;
   font-style:normal;
@@ -245,23 +245,23 @@
 #u221 {
   position:absolute;
   left:2px;
-  top:11px;
-  width:125px;
+  top:15px;
+  width:104px;
   word-wrap:break-word;
 }
 #u222_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:140px;
-  height:66px;
+  width:119px;
+  height:64px;
 }
 #u222 {
   position:absolute;
-  left:1039px;
-  top:120px;
-  width:129px;
-  height:55px;
+  left:756px;
+  top:139px;
+  width:108px;
+  height:53px;
   font-family:'SnellRoundhand-Black', 'Snell Roundhand Black', 'Snell Roundhand';
   font-weight:900;
   font-style:normal;
@@ -271,23 +271,23 @@
 #u223 {
   position:absolute;
   left:2px;
-  top:11px;
-  width:125px;
+  top:10px;
+  width:104px;
   word-wrap:break-word;
 }
 #u224_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:140px;
-  height:66px;
+  width:119px;
+  height:64px;
 }
 #u224 {
   position:absolute;
-  left:314px;
-  top:120px;
-  width:129px;
-  height:55px;
+  left:204px;
+  top:139px;
+  width:108px;
+  height:53px;
   font-family:'SnellRoundhand-Black', 'Snell Roundhand Black', 'Snell Roundhand';
   font-weight:900;
   font-style:normal;
@@ -297,51 +297,37 @@
 #u225 {
   position:absolute;
   left:2px;
-  top:11px;
-  width:125px;
+  top:10px;
+  width:104px;
   word-wrap:break-word;
 }
-#u226_div {
+#u226_img {
   position:absolute;
-  left:0px;
-  top:0px;
-  width:77px;
-  height:22px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'Arial-BoldItalicMT', 'Arial Bold Italic', 'Arial';
-  font-weight:700;
-  font-style:italic;
-  font-size:16px;
+  left:-2px;
+  top:-2px;
+  width:937px;
+  height:19px;
 }
 #u226 {
   position:absolute;
-  left:19px;
-  top:10px;
-  width:77px;
-  height:22px;
-  font-family:'Arial-BoldItalicMT', 'Arial Bold Italic', 'Arial';
-  font-weight:700;
-  font-style:italic;
-  font-size:16px;
+  left:204px;
+  top:265px;
+  width:922px;
+  height:4px;
 }
 #u227 {
   position:absolute;
-  left:0px;
-  top:0px;
-  width:77px;
-  white-space:nowrap;
+  left:2px;
+  top:-6px;
+  width:918px;
+  visibility:hidden;
+  word-wrap:break-word;
 }
 #u228_div {
   position:absolute;
   left:0px;
   top:0px;
-  width:274px;
+  width:77px;
   height:22px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -357,9 +343,9 @@
 }
 #u228 {
   position:absolute;
-  left:185px;
+  left:19px;
   top:10px;
-  width:274px;
+  width:77px;
   height:22px;
   font-family:'Arial-BoldItalicMT', 'Arial Bold Italic', 'Arial';
   font-weight:700;
@@ -370,40 +356,54 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:274px;
-  word-wrap:break-word;
+  width:77px;
+  white-space:nowrap;
 }
-#u230_img {
+#u230_div {
   position:absolute;
-  left:-2px;
-  top:-2px;
-  width:1214px;
-  height:19px;
+  left:0px;
+  top:0px;
+  width:274px;
+  height:22px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Arial-BoldItalicMT', 'Arial Bold Italic', 'Arial';
+  font-weight:700;
+  font-style:italic;
+  font-size:16px;
 }
 #u230 {
   position:absolute;
-  left:314px;
-  top:252px;
-  width:1199px;
-  height:4px;
+  left:185px;
+  top:10px;
+  width:274px;
+  height:22px;
+  font-family:'Arial-BoldItalicMT', 'Arial Bold Italic', 'Arial';
+  font-weight:700;
+  font-style:italic;
+  font-size:16px;
 }
 #u231 {
   position:absolute;
-  left:2px;
-  top:-6px;
-  width:1195px;
-  visibility:hidden;
+  left:0px;
+  top:0px;
+  width:274px;
   word-wrap:break-word;
 }
 body.a {  background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/point_look/bg.jpg');
+  background-image:url('../../images/leader/bg.jpg');
   background-position:left top;
   background-repeat:no-repeat;
   background-attachment:scroll;
-  background-size:1920px 900px;
+  background-size:1425px 801px;
   position:static;
   left:auto;
-  width:1513px;
+  width:1126px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -548,7 +548,13 @@ body.a {  background-color:rgba(255, 255, 255, 1);
 }
 #u226.a {
 }
-#u226_div.a {
+#u226_img.a {
+}
+#u227.a {
+}
+#u228.a {
+}
+#u228_div.a {
   position:absolute;
   left:0px;
   top:0px;
@@ -566,11 +572,11 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   font-style:italic;
   font-size:16px;
 }
-#u227.a {
+#u229.a {
 }
-#u228.a {
+#u230.a {
 }
-#u228_div.a {
+#u230_div.a {
   position:absolute;
   left:0px;
   top:0px;
@@ -588,23 +594,17 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   font-style:italic;
   font-size:16px;
 }
-#u229.a {
-}
-#u230.a {
-}
-#u230_img.a {
-}
 #u231.a {
 }
 body.b {  background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/point_look/bg.jpg');
+  background-image:url('../../images/leader/bg.jpg');
   background-position:left top;
   background-repeat:no-repeat;
   background-attachment:scroll;
-  background-size:1920px 900px;
+  background-size:1425px 801px;
   position:static;
   left:auto;
-  width:1513px;
+  width:1126px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -749,7 +749,13 @@ body.b {  background-color:rgba(255, 255, 255, 1);
 }
 #u226.b {
 }
-#u226_div.b {
+#u226_img.b {
+}
+#u227.b {
+}
+#u228.b {
+}
+#u228_div.b {
   position:absolute;
   left:0px;
   top:0px;
@@ -767,11 +773,11 @@ body.b {  background-color:rgba(255, 255, 255, 1);
   font-style:italic;
   font-size:16px;
 }
-#u227.b {
+#u229.b {
 }
-#u228.b {
+#u230.b {
 }
-#u228_div.b {
+#u230_div.b {
   position:absolute;
   left:0px;
   top:0px;
@@ -789,23 +795,17 @@ body.b {  background-color:rgba(255, 255, 255, 1);
   font-style:italic;
   font-size:16px;
 }
-#u229.b {
-}
-#u230.b {
-}
-#u230_img.b {
-}
 #u231.b {
 }
 body.c {  background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/point_look/bg.jpg');
+  background-image:url('../../images/leader/bg.jpg');
   background-position:left top;
   background-repeat:no-repeat;
   background-attachment:scroll;
-  background-size:1920px 900px;
+  background-size:1425px 801px;
   position:static;
   left:auto;
-  width:1513px;
+  width:1126px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -950,7 +950,13 @@ body.c {  background-color:rgba(255, 255, 255, 1);
 }
 #u226.c {
 }
-#u226_div.c {
+#u226_img.c {
+}
+#u227.c {
+}
+#u228.c {
+}
+#u228_div.c {
   position:absolute;
   left:0px;
   top:0px;
@@ -968,11 +974,11 @@ body.c {  background-color:rgba(255, 255, 255, 1);
   font-style:italic;
   font-size:16px;
 }
-#u227.c {
+#u229.c {
 }
-#u228.c {
+#u230.c {
 }
-#u228_div.c {
+#u230_div.c {
   position:absolute;
   left:0px;
   top:0px;
@@ -990,23 +996,17 @@ body.c {  background-color:rgba(255, 255, 255, 1);
   font-style:italic;
   font-size:16px;
 }
-#u229.c {
-}
-#u230.c {
-}
-#u230_img.c {
-}
 #u231.c {
 }
 body.d {  background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/point_look/bg.jpg');
+  background-image:url('../../images/leader/bg.jpg');
   background-position:left top;
   background-repeat:no-repeat;
   background-attachment:scroll;
-  background-size:1920px 900px;
+  background-size:1425px 801px;
   position:static;
   left:auto;
-  width:1513px;
+  width:1126px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -1151,7 +1151,13 @@ body.d {  background-color:rgba(255, 255, 255, 1);
 }
 #u226.d {
 }
-#u226_div.d {
+#u226_img.d {
+}
+#u227.d {
+}
+#u228.d {
+}
+#u228_div.d {
   position:absolute;
   left:0px;
   top:0px;
@@ -1169,11 +1175,11 @@ body.d {  background-color:rgba(255, 255, 255, 1);
   font-style:italic;
   font-size:16px;
 }
-#u227.d {
+#u229.d {
 }
-#u228.d {
+#u230.d {
 }
-#u228_div.d {
+#u230_div.d {
   position:absolute;
   left:0px;
   top:0px;
@@ -1190,12 +1196,6 @@ body.d {  background-color:rgba(255, 255, 255, 1);
   font-weight:700;
   font-style:italic;
   font-size:16px;
-}
-#u229.d {
-}
-#u230.d {
-}
-#u230_img.d {
 }
 #u231.d {
 }
