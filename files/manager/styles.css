@@ -4,10 +4,10 @@
   background-position:left top;
   background-repeat:no-repeat;
   background-attachment:scroll;
-  background-size:1425px 801px;
+  background-size:100% 100%;
   position:static;
   left:auto;
-  width:1126px;
+  width:100%;
   margin-left:0;
   margin-right:0;
   text-align:left;
