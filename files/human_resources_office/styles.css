@@ -123,7 +123,7 @@
 }
 #u412 {
   position:absolute;
-  left:397px;
+  left:541px;
   top:87px;
   width:108px;
   height:53px;
@@ -149,33 +149,7 @@
 }
 #u414 {
   position:absolute;
-  left:692px;
-  top:87px;
-  width:108px;
-  height:53px;
-  font-family:'STSongti-SC-Black', 'Songti SC Black', 'Songti SC';
-  font-weight:900;
-  font-style:normal;
-  font-size:24px;
-  color:#000000;
-}
-#u415 {
-  position:absolute;
-  left:2px;
-  top:-6px;
-  width:104px;
-  word-wrap:break-word;
-}
-#u416_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:119px;
-  height:64px;
-}
-#u416 {
-  position:absolute;
-  left:954px;
+  left:880px;
   top:87px;
   width:108px;
   height:53px;
@@ -185,28 +159,28 @@
   font-size:24px;
   color:#000000;
 }
-#u417 {
+#u415 {
   position:absolute;
   left:2px;
   top:10px;
   width:104px;
   word-wrap:break-word;
 }
-#u418_img {
+#u416_img {
   position:absolute;
   left:-2px;
   top:-2px;
   width:1163px;
   height:19px;
 }
-#u418 {
+#u416 {
   position:absolute;
   left:140px;
   top:213px;
   width:1148px;
   height:4px;
 }
-#u419 {
+#u417 {
   position:absolute;
   left:2px;
   top:-6px;
@@ -214,14 +188,14 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u420_img {
+#u418_img {
   position:absolute;
   left:0px;
   top:0px;
   width:119px;
   height:64px;
 }
-#u420 {
+#u418 {
   position:absolute;
   left:1180px;
   top:87px;
@@ -233,7 +207,7 @@
   font-size:24px;
   color:#000000;
 }
-#u421 {
+#u419 {
   position:absolute;
   left:2px;
   top:10px;
@@ -327,12 +301,6 @@ body.a {  background-color:rgba(255, 255, 255, 1);
 }
 #u419.a {
 }
-#u420.a {
-}
-#u420_img.a {
-}
-#u421.a {
-}
 body.b {  background-color:rgba(255, 255, 255, 1);
   background-image:url('../../images/leader/bg.jpg');
   background-position:left top;
@@ -419,12 +387,6 @@ body.b {  background-color:rgba(255, 255, 255, 1);
 #u418_img.b {
 }
 #u419.b {
-}
-#u420.b {
-}
-#u420_img.b {
-}
-#u421.b {
 }
 body.c {  background-color:rgba(255, 255, 255, 1);
   background-image:url('../../images/leader/bg.jpg');
@@ -513,12 +475,6 @@ body.c {  background-color:rgba(255, 255, 255, 1);
 }
 #u419.c {
 }
-#u420.c {
-}
-#u420_img.c {
-}
-#u421.c {
-}
 body.d {  background-color:rgba(255, 255, 255, 1);
   background-image:url('../../images/leader/bg.jpg');
   background-position:left top;
@@ -605,10 +561,4 @@ body.d {  background-color:rgba(255, 255, 255, 1);
 #u418_img.d {
 }
 #u419.d {
-}
-#u420.d {
-}
-#u420_img.d {
-}
-#u421.d {
 }
