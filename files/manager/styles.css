@@ -4,10 +4,10 @@
   background-position:left top;
   background-repeat:no-repeat;
   background-attachment:scroll;
-  background-size:1425px 801px;
+  background-size:100% 100% ;
   position:static;
   left:auto;
-  width:1126px;
+  width:100% ;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -55,7 +55,7 @@
   top:139px;
   width:108px;
   height:53px;
-  font-family:'SnellRoundhand-Black', 'Snell Roundhand Black', 'Snell Roundhand';
+  font-family:'STSongti-SC-Black', 'Songti SC Black', 'Songti SC';
   font-weight:900;
   font-style:normal;
   font-size:24px;
@@ -64,7 +64,7 @@
 #u638 {
   position:absolute;
   left:2px;
-  top:10px;
+  top:-6px;
   width:104px;
   word-wrap:break-word;
 }
