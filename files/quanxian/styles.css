@@ -1,0 +1,242 @@
+﻿body {
+  margin:0px;
+  background-image:url('../../images/leader/bg.jpg');
+  background-position:left top;
+  background-repeat:no-repeat;
+  background-attachment:scroll;
+  background-size:1425px 801px;
+  position:static;
+  left:auto;
+  width:1288px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u632_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:45px;
+  height:22px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Arial-BoldItalicMT', 'Arial Bold Italic', 'Arial';
+  font-weight:700;
+  font-style:italic;
+  font-size:16px;
+}
+#u632 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:45px;
+  height:22px;
+  font-family:'Arial-BoldItalicMT', 'Arial Bold Italic', 'Arial';
+  font-weight:700;
+  font-style:italic;
+  font-size:16px;
+}
+#u633 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:45px;
+  white-space:nowrap;
+}
+#u634_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:274px;
+  height:22px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Arial-BoldItalicMT', 'Arial Bold Italic', 'Arial';
+  font-weight:700;
+  font-style:italic;
+  font-size:16px;
+}
+#u634 {
+  position:absolute;
+  left:166px;
+  top:0px;
+  width:274px;
+  height:22px;
+  font-family:'Arial-BoldItalicMT', 'Arial Bold Italic', 'Arial';
+  font-weight:700;
+  font-style:italic;
+  font-size:16px;
+}
+#u635 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:274px;
+  word-wrap:break-word;
+}
+#u636_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:119px;
+  height:64px;
+}
+#u636 {
+  position:absolute;
+  left:1180px;
+  top:87px;
+  width:108px;
+  height:53px;
+  font-family:'SnellRoundhand-Black', 'Snell Roundhand Black', 'Snell Roundhand';
+  font-weight:900;
+  font-style:normal;
+  font-size:24px;
+  color:#000000;
+}
+#u637 {
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:104px;
+  word-wrap:break-word;
+}
+#u638_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:119px;
+  height:64px;
+}
+#u638 {
+  position:absolute;
+  left:397px;
+  top:87px;
+  width:108px;
+  height:53px;
+  font-family:'STSongti-SC-Black', 'Songti SC Black', 'Songti SC';
+  font-weight:900;
+  font-style:normal;
+  font-size:24px;
+  color:#000000;
+}
+#u639 {
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:104px;
+  word-wrap:break-word;
+}
+#u640_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:119px;
+  height:64px;
+}
+#u640 {
+  position:absolute;
+  left:692px;
+  top:87px;
+  width:108px;
+  height:53px;
+  font-family:'STSongti-SC-Black', 'Songti SC Black', 'Songti SC';
+  font-weight:900;
+  font-style:normal;
+  font-size:24px;
+  color:#000000;
+}
+#u641 {
+  position:absolute;
+  left:2px;
+  top:-6px;
+  width:104px;
+  word-wrap:break-word;
+}
+#u642_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:119px;
+  height:64px;
+}
+#u642 {
+  position:absolute;
+  left:954px;
+  top:87px;
+  width:108px;
+  height:53px;
+  font-family:'SnellRoundhand-Black', 'Snell Roundhand Black', 'Snell Roundhand';
+  font-weight:900;
+  font-style:normal;
+  font-size:24px;
+  color:#000000;
+}
+#u643 {
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:104px;
+  word-wrap:break-word;
+}
+#u644_img {
+  position:absolute;
+  left:-2px;
+  top:-2px;
+  width:1163px;
+  height:19px;
+}
+#u644 {
+  position:absolute;
+  left:140px;
+  top:213px;
+  width:1148px;
+  height:4px;
+}
+#u645 {
+  position:absolute;
+  left:2px;
+  top:-6px;
+  width:1144px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u646_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:119px;
+  height:64px;
+}
+#u646 {
+  position:absolute;
+  left:140px;
+  top:87px;
+  width:108px;
+  height:53px;
+  font-family:'SnellRoundhand-Black', 'Snell Roundhand Black', 'Snell Roundhand';
+  font-weight:900;
+  font-style:normal;
+  font-size:24px;
+  color:#000000;
+}
+#u647 {
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:104px;
+  word-wrap:break-word;
+}
