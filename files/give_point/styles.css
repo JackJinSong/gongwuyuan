@@ -1,13 +1,13 @@
 ﻿body {
   margin:0px;
-  background-image:url('../../images/leader/bg.jpg');
+  background-image:url('../../images/give_point/bg.jpg');
   background-position:left top;
   background-repeat:no-repeat;
   background-attachment:scroll;
-  background-size:1920px 900px;
+  background-size:1425px 801px;
   position:static;
   left:auto;
-  width:1927px;
+  width:1453px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -36,8 +36,8 @@
 }
 #u30 {
   position:absolute;
-  left:830px;
-  top:356px;
+  left:593px;
+  top:341px;
   width:55px;
   height:25px;
   font-family:'Impact';
@@ -54,8 +54,8 @@
 }
 #u32 {
   position:absolute;
-  left:885px;
-  top:357px;
+  left:648px;
+  top:342px;
   width:226px;
   height:30px;
 }
@@ -96,8 +96,8 @@
 }
 #u33 {
   position:absolute;
-  left:830px;
-  top:447px;
+  left:593px;
+  top:432px;
   width:55px;
   height:25px;
   font-family:'Impact';
@@ -114,8 +114,8 @@
 }
 #u35 {
   position:absolute;
-  left:885px;
-  top:451px;
+  left:648px;
+  top:436px;
   width:100px;
   height:22px;
   font-size:16px;
@@ -134,8 +134,8 @@
 }
 #u37 {
   position:absolute;
-  left:1043px;
-  top:451px;
+  left:806px;
+  top:436px;
   width:100px;
   height:22px;
   font-size:16px;
@@ -161,8 +161,8 @@
 }
 #u39 {
   position:absolute;
-  left:928px;
-  top:546px;
+  left:691px;
+  top:531px;
   width:140px;
   height:40px;
   font-family:'SnellRoundhand-Black', 'Snell Roundhand Black', 'Snell Roundhand';
@@ -187,8 +187,8 @@
 }
 #u41 {
   position:absolute;
-  left:652px;
-  top:120px;
+  left:437px;
+  top:114px;
   width:129px;
   height:55px;
   font-family:'SnellRoundhand-Black', 'Snell Roundhand Black', 'Snell Roundhand';
@@ -213,8 +213,8 @@
 }
 #u43 {
   position:absolute;
-  left:314px;
-  top:120px;
+  left:99px;
+  top:114px;
   width:129px;
   height:55px;
   font-family:'STSongti-SC-Black', 'Songti SC Black', 'Songti SC';
@@ -239,8 +239,8 @@
 }
 #u45 {
   position:absolute;
-  left:1039px;
-  top:120px;
+  left:824px;
+  top:114px;
   width:129px;
   height:55px;
   font-family:'SnellRoundhand-Black', 'Snell Roundhand Black', 'Snell Roundhand';
@@ -265,8 +265,8 @@
 }
 #u47 {
   position:absolute;
-  left:1384px;
-  top:120px;
+  left:1169px;
+  top:114px;
   width:129px;
   height:55px;
   font-family:'SnellRoundhand-Black', 'Snell Roundhand Black', 'Snell Roundhand';
@@ -363,8 +363,8 @@
 }
 #u53 {
   position:absolute;
-  left:314px;
-  top:252px;
+  left:99px;
+  top:246px;
   width:1199px;
   height:4px;
 }
@@ -392,8 +392,8 @@
 }
 #u55 {
   position:absolute;
-  left:0px;
-  top:546px;
+  left:-237px;
+  top:531px;
   width:1927px;
   height:1px;
 }
@@ -406,14 +406,14 @@
   word-wrap:break-word;
 }
 body.a {  background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/leader/bg.jpg');
+  background-image:url('../../images/give_point/bg.jpg');
   background-position:left top;
   background-repeat:no-repeat;
   background-attachment:scroll;
-  background-size:1920px 900px;
+  background-size:1425px 801px;
   position:static;
   left:auto;
-  width:1927px;
+  width:1453px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -442,8 +442,8 @@ body.a {  background-color:rgba(255, 255, 255, 1);
 }
 #u32.a {
   position:absolute;
-  left:885px;
-  top:357px;
+  left:648px;
+  top:342px;
   width:226px;
   height:30px;
 }
@@ -600,14 +600,14 @@ body.a {  background-color:rgba(255, 255, 255, 1);
 #u56.a {
 }
 body.b {  background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/leader/bg.jpg');
+  background-image:url('../../images/give_point/bg.jpg');
   background-position:left top;
   background-repeat:no-repeat;
   background-attachment:scroll;
-  background-size:1920px 900px;
+  background-size:1425px 801px;
   position:static;
   left:auto;
-  width:1927px;
+  width:1453px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -636,8 +636,8 @@ body.b {  background-color:rgba(255, 255, 255, 1);
 }
 #u32.b {
   position:absolute;
-  left:885px;
-  top:357px;
+  left:648px;
+  top:342px;
   width:226px;
   height:30px;
 }
@@ -794,14 +794,14 @@ body.b {  background-color:rgba(255, 255, 255, 1);
 #u56.b {
 }
 body.c {  background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/leader/bg.jpg');
+  background-image:url('../../images/give_point/bg.jpg');
   background-position:left top;
   background-repeat:no-repeat;
   background-attachment:scroll;
-  background-size:1920px 900px;
+  background-size:1425px 801px;
   position:static;
   left:auto;
-  width:1927px;
+  width:1453px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -830,8 +830,8 @@ body.c {  background-color:rgba(255, 255, 255, 1);
 }
 #u32.c {
   position:absolute;
-  left:885px;
-  top:357px;
+  left:648px;
+  top:342px;
   width:226px;
   height:30px;
 }
@@ -988,14 +988,14 @@ body.c {  background-color:rgba(255, 255, 255, 1);
 #u56.c {
 }
 body.d {  background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/leader/bg.jpg');
+  background-image:url('../../images/give_point/bg.jpg');
   background-position:left top;
   background-repeat:no-repeat;
   background-attachment:scroll;
-  background-size:1920px 900px;
+  background-size:1425px 801px;
   position:static;
   left:auto;
-  width:1927px;
+  width:1453px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -1024,8 +1024,8 @@ body.d {  background-color:rgba(255, 255, 255, 1);
 }
 #u32.d {
   position:absolute;
-  left:885px;
-  top:357px;
+  left:648px;
+  top:342px;
   width:226px;
   height:30px;
 }
