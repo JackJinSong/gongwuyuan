@@ -4,10 +4,10 @@
   background-position:left top;
   background-repeat:no-repeat;
   background-attachment:scroll;
-  background-size:1900px 950px;
+  background-size:100% 950px;
   position:static;
   left:auto;
-  width:1105px;
+  width:100%;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -204,6 +204,9 @@
   font-style:normal;
   font-size:18px;
   color:#000000;
+}
+#u8:hover{
+  background-color: #87CEFF;
 }
 #u9 {
   position:absolute;
