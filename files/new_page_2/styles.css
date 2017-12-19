@@ -4,10 +4,10 @@
   background-position:left top;
   background-repeat:no-repeat;
   background-attachment:scroll;
-  background-size:1920px 900px;
+  background-size:1425px 801px;
   position:static;
   left:auto;
-  width:1513px;
+  width:1126px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -25,8 +25,8 @@
 }
 #u104 {
   position:absolute;
-  left:787px;
-  top:324px;
+  left:539px;
+  top:330px;
   width:252px;
   height:202px;
 }
@@ -58,8 +58,8 @@
 }
 #u106 {
   position:absolute;
-  left:773px;
-  top:598px;
+  left:525px;
+  top:604px;
   width:281px;
   height:40px;
   font-family:'Arial-BoldItalicMT', 'Arial Bold Italic', 'Arial';
@@ -78,15 +78,15 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:140px;
-  height:66px;
+  width:119px;
+  height:64px;
 }
 #u108 {
   position:absolute;
-  left:652px;
-  top:120px;
-  width:129px;
-  height:55px;
+  left:461px;
+  top:139px;
+  width:108px;
+  height:53px;
   font-family:'SnellRoundhand-Black', 'Snell Roundhand Black', 'Snell Roundhand';
   font-weight:900;
   font-style:normal;
@@ -96,23 +96,23 @@
 #u109 {
   position:absolute;
   left:2px;
-  top:11px;
-  width:125px;
+  top:10px;
+  width:104px;
   word-wrap:break-word;
 }
 #u110_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:140px;
-  height:66px;
+  width:119px;
+  height:64px;
 }
 #u110 {
   position:absolute;
-  left:314px;
-  top:120px;
-  width:129px;
-  height:55px;
+  left:204px;
+  top:139px;
+  width:108px;
+  height:53px;
   font-family:'SnellRoundhand-Black', 'Snell Roundhand Black', 'Snell Roundhand';
   font-weight:900;
   font-style:normal;
@@ -122,23 +122,23 @@
 #u111 {
   position:absolute;
   left:2px;
-  top:11px;
-  width:125px;
+  top:10px;
+  width:104px;
   word-wrap:break-word;
 }
 #u112_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:140px;
-  height:66px;
+  width:119px;
+  height:64px;
 }
 #u112 {
   position:absolute;
-  left:1039px;
-  top:120px;
-  width:129px;
-  height:55px;
+  left:756px;
+  top:139px;
+  width:108px;
+  height:53px;
   font-family:'SnellRoundhand-Black', 'Snell Roundhand Black', 'Snell Roundhand';
   font-weight:900;
   font-style:normal;
@@ -148,23 +148,23 @@
 #u113 {
   position:absolute;
   left:2px;
-  top:11px;
-  width:125px;
+  top:10px;
+  width:104px;
   word-wrap:break-word;
 }
 #u114_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:140px;
-  height:66px;
+  width:119px;
+  height:64px;
 }
 #u114 {
   position:absolute;
-  left:1384px;
-  top:120px;
-  width:129px;
-  height:55px;
+  left:1018px;
+  top:139px;
+  width:108px;
+  height:53px;
   font-family:'SnellRoundhand-Black', 'Snell Roundhand Black', 'Snell Roundhand';
   font-weight:900;
   font-style:normal;
@@ -174,8 +174,8 @@
 #u115 {
   position:absolute;
   left:2px;
-  top:11px;
-  width:125px;
+  top:10px;
+  width:104px;
   word-wrap:break-word;
 }
 #u116_div {
@@ -254,21 +254,21 @@
   position:absolute;
   left:-2px;
   top:-2px;
-  width:1214px;
+  width:937px;
   height:19px;
 }
 #u120 {
   position:absolute;
-  left:314px;
-  top:252px;
-  width:1199px;
+  left:204px;
+  top:265px;
+  width:922px;
   height:4px;
 }
 #u121 {
   position:absolute;
   left:2px;
   top:-6px;
-  width:1195px;
+  width:918px;
   visibility:hidden;
   word-wrap:break-word;
 }
@@ -277,10 +277,10 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   background-position:left top;
   background-repeat:no-repeat;
   background-attachment:scroll;
-  background-size:1920px 900px;
+  background-size:1425px 801px;
   position:static;
   left:auto;
-  width:1513px;
+  width:1126px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -392,10 +392,10 @@ body.b {  background-color:rgba(255, 255, 255, 1);
   background-position:left top;
   background-repeat:no-repeat;
   background-attachment:scroll;
-  background-size:1920px 900px;
+  background-size:1425px 801px;
   position:static;
   left:auto;
-  width:1513px;
+  width:1126px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -507,10 +507,10 @@ body.c {  background-color:rgba(255, 255, 255, 1);
   background-position:left top;
   background-repeat:no-repeat;
   background-attachment:scroll;
-  background-size:1920px 900px;
+  background-size:1425px 801px;
   position:static;
   left:auto;
-  width:1513px;
+  width:1126px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -622,10 +622,10 @@ body.d {  background-color:rgba(255, 255, 255, 1);
   background-position:left top;
   background-repeat:no-repeat;
   background-attachment:scroll;
-  background-size:1920px 900px;
+  background-size:1425px 801px;
   position:static;
   left:auto;
-  width:1513px;
+  width:1126px;
   margin-left:0;
   margin-right:0;
   text-align:left;

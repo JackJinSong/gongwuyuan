@@ -4,10 +4,10 @@
   background-position:left top;
   background-repeat:no-repeat;
   background-attachment:scroll;
-  background-size:1920px 900px;
+  background-size:1425px 801px;
   position:static;
   left:auto;
-  width:1513px;
+  width:1126px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -20,15 +20,15 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:140px;
-  height:66px;
+  width:119px;
+  height:64px;
 }
 #u10 {
   position:absolute;
-  left:314px;
-  top:120px;
-  width:129px;
-  height:55px;
+  left:204px;
+  top:139px;
+  width:108px;
+  height:53px;
   font-family:'SnellRoundhand-Black', 'Snell Roundhand Black', 'Snell Roundhand';
   font-weight:900;
   font-style:normal;
@@ -38,23 +38,23 @@
 #u11 {
   position:absolute;
   left:2px;
-  top:11px;
-  width:125px;
+  top:10px;
+  width:104px;
   word-wrap:break-word;
 }
 #u12_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:140px;
-  height:66px;
+  width:119px;
+  height:64px;
 }
 #u12 {
   position:absolute;
-  left:652px;
-  top:120px;
-  width:129px;
-  height:55px;
+  left:461px;
+  top:139px;
+  width:108px;
+  height:53px;
   font-family:'SnellRoundhand-Black', 'Snell Roundhand Black', 'Snell Roundhand';
   font-weight:900;
   font-style:normal;
@@ -64,23 +64,23 @@
 #u13 {
   position:absolute;
   left:2px;
-  top:11px;
-  width:125px;
+  top:10px;
+  width:104px;
   word-wrap:break-word;
 }
 #u14_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:140px;
-  height:66px;
+  width:119px;
+  height:64px;
 }
 #u14 {
   position:absolute;
-  left:1039px;
-  top:120px;
-  width:129px;
-  height:55px;
+  left:756px;
+  top:139px;
+  width:108px;
+  height:53px;
   font-family:'SnellRoundhand-Black', 'Snell Roundhand Black', 'Snell Roundhand';
   font-weight:900;
   font-style:normal;
@@ -90,23 +90,23 @@
 #u15 {
   position:absolute;
   left:2px;
-  top:11px;
-  width:125px;
+  top:10px;
+  width:104px;
   word-wrap:break-word;
 }
 #u16_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:140px;
-  height:66px;
+  width:119px;
+  height:64px;
 }
 #u16 {
   position:absolute;
-  left:1384px;
-  top:120px;
-  width:129px;
-  height:55px;
+  left:1018px;
+  top:139px;
+  width:108px;
+  height:53px;
   font-family:'SnellRoundhand-Black', 'Snell Roundhand Black', 'Snell Roundhand';
   font-weight:900;
   font-style:normal;
@@ -116,8 +116,8 @@
 #u17 {
   position:absolute;
   left:2px;
-  top:11px;
-  width:125px;
+  top:10px;
+  width:104px;
   word-wrap:break-word;
 }
 #u18_div {
@@ -196,21 +196,21 @@
   position:absolute;
   left:-2px;
   top:-2px;
-  width:1214px;
+  width:937px;
   height:19px;
 }
 #u22 {
   position:absolute;
-  left:314px;
-  top:252px;
-  width:1199px;
+  left:204px;
+  top:265px;
+  width:922px;
   height:4px;
 }
 #u23 {
   position:absolute;
   left:2px;
   top:-6px;
-  width:1195px;
+  width:918px;
   visibility:hidden;
   word-wrap:break-word;
 }
@@ -232,8 +232,8 @@
 }
 #u24 {
   position:absolute;
-  left:848px;
-  top:361px;
+  left:572px;
+  top:352px;
   width:186px;
   height:55px;
   font-size:28px;
@@ -264,8 +264,8 @@
 }
 #u26 {
   position:absolute;
-  left:848px;
-  top:461px;
+  left:572px;
+  top:452px;
   width:162px;
   height:37px;
   font-size:26px;
@@ -299,8 +299,8 @@
 }
 #u28 {
   position:absolute;
-  left:791px;
-  top:553px;
+  left:515px;
+  top:544px;
   width:301px;
   height:28px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
@@ -321,10 +321,10 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   background-position:left top;
   background-repeat:no-repeat;
   background-attachment:scroll;
-  background-size:1920px 900px;
+  background-size:1425px 801px;
   position:static;
   left:auto;
-  width:1513px;
+  width:1126px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -471,10 +471,10 @@ body.b {  background-color:rgba(255, 255, 255, 1);
   background-position:left top;
   background-repeat:no-repeat;
   background-attachment:scroll;
-  background-size:1920px 900px;
+  background-size:1425px 801px;
   position:static;
   left:auto;
-  width:1513px;
+  width:1126px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -621,10 +621,10 @@ body.c {  background-color:rgba(255, 255, 255, 1);
   background-position:left top;
   background-repeat:no-repeat;
   background-attachment:scroll;
-  background-size:1920px 900px;
+  background-size:1425px 801px;
   position:static;
   left:auto;
-  width:1513px;
+  width:1126px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -771,10 +771,10 @@ body.d {  background-color:rgba(255, 255, 255, 1);
   background-position:left top;
   background-repeat:no-repeat;
   background-attachment:scroll;
-  background-size:1920px 900px;
+  background-size:1425px 801px;
   position:static;
   left:auto;
-  width:1513px;
+  width:1126px;
   margin-left:0;
   margin-right:0;
   text-align:left;

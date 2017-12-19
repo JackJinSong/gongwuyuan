@@ -1,13 +1,13 @@
 ﻿body {
   margin:0px;
-  background-image:url('../../images/give_point/bg.jpg');
+  background-image:url('../../images/leader/bg.jpg');
   background-position:left top;
   background-repeat:no-repeat;
   background-attachment:scroll;
   background-size:1425px 801px;
   position:static;
   left:auto;
-  width:1453px;
+  width:1363px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -36,8 +36,8 @@
 }
 #u30 {
   position:absolute;
-  left:593px;
-  top:341px;
+  left:581px;
+  top:356px;
   width:55px;
   height:25px;
   font-family:'Impact';
@@ -54,17 +54,17 @@
 }
 #u32 {
   position:absolute;
-  left:648px;
-  top:342px;
-  width:226px;
-  height:30px;
+  left:622px;
+  top:357px;
+  width:173px;
+  height:28px;
 }
 #u32_input {
   position:absolute;
   left:0px;
   top:0px;
-  width:226px;
-  height:30px;
+  width:173px;
+  height:28px;
   background-color:rgba(255, 255, 255, 0.156862745098039);
   font-family:'Impact';
   font-weight:900;
@@ -96,8 +96,8 @@
 }
 #u33 {
   position:absolute;
-  left:593px;
-  top:432px;
+  left:581px;
+  top:442px;
   width:55px;
   height:25px;
   font-family:'Impact';
@@ -114,9 +114,9 @@
 }
 #u35 {
   position:absolute;
-  left:648px;
-  top:436px;
-  width:100px;
+  left:622px;
+  top:446px;
+  width:76px;
   height:22px;
   font-size:16px;
 }
@@ -124,7 +124,7 @@
   position:absolute;
   left:16px;
   top:0px;
-  width:82px;
+  width:58px;
   word-wrap:break-word;
 }
 #u35_input {
@@ -134,9 +134,9 @@
 }
 #u37 {
   position:absolute;
-  left:806px;
-  top:436px;
-  width:100px;
+  left:743px;
+  top:446px;
+  width:76px;
   height:22px;
   font-size:16px;
 }
@@ -144,7 +144,7 @@
   position:absolute;
   left:16px;
   top:0px;
-  width:82px;
+  width:58px;
   word-wrap:break-word;
 }
 #u37_input {
@@ -156,15 +156,15 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:151px;
-  height:51px;
+  width:117px;
+  height:49px;
 }
 #u39 {
   position:absolute;
-  left:691px;
-  top:531px;
-  width:140px;
-  height:40px;
+  left:655px;
+  top:536px;
+  width:106px;
+  height:38px;
   font-family:'SnellRoundhand-Black', 'Snell Roundhand Black', 'Snell Roundhand';
   font-weight:900;
   font-style:normal;
@@ -174,23 +174,23 @@
 #u40 {
   position:absolute;
   left:2px;
-  top:4px;
-  width:136px;
+  top:2px;
+  width:102px;
   word-wrap:break-word;
 }
 #u41_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:140px;
-  height:66px;
+  width:119px;
+  height:64px;
 }
 #u41 {
   position:absolute;
-  left:437px;
-  top:114px;
-  width:129px;
-  height:55px;
+  left:461px;
+  top:139px;
+  width:108px;
+  height:53px;
   font-family:'SnellRoundhand-Black', 'Snell Roundhand Black', 'Snell Roundhand';
   font-weight:900;
   font-style:normal;
@@ -200,23 +200,23 @@
 #u42 {
   position:absolute;
   left:2px;
-  top:11px;
-  width:125px;
+  top:10px;
+  width:104px;
   word-wrap:break-word;
 }
 #u43_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:140px;
-  height:66px;
+  width:119px;
+  height:64px;
 }
 #u43 {
   position:absolute;
-  left:99px;
-  top:114px;
-  width:129px;
-  height:55px;
+  left:204px;
+  top:139px;
+  width:108px;
+  height:53px;
   font-family:'STSongti-SC-Black', 'Songti SC Black', 'Songti SC';
   font-weight:900;
   font-style:normal;
@@ -226,23 +226,23 @@
 #u44 {
   position:absolute;
   left:2px;
-  top:11px;
-  width:125px;
+  top:10px;
+  width:104px;
   word-wrap:break-word;
 }
 #u45_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:140px;
-  height:66px;
+  width:119px;
+  height:64px;
 }
 #u45 {
   position:absolute;
-  left:824px;
-  top:114px;
-  width:129px;
-  height:55px;
+  left:756px;
+  top:139px;
+  width:108px;
+  height:53px;
   font-family:'SnellRoundhand-Black', 'Snell Roundhand Black', 'Snell Roundhand';
   font-weight:900;
   font-style:normal;
@@ -252,23 +252,23 @@
 #u46 {
   position:absolute;
   left:2px;
-  top:11px;
-  width:125px;
+  top:10px;
+  width:104px;
   word-wrap:break-word;
 }
 #u47_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:140px;
-  height:66px;
+  width:119px;
+  height:64px;
 }
 #u47 {
   position:absolute;
-  left:1169px;
-  top:114px;
-  width:129px;
-  height:55px;
+  left:1018px;
+  top:139px;
+  width:108px;
+  height:53px;
   font-family:'SnellRoundhand-Black', 'Snell Roundhand Black', 'Snell Roundhand';
   font-weight:900;
   font-style:normal;
@@ -278,8 +278,8 @@
 #u48 {
   position:absolute;
   left:2px;
-  top:11px;
-  width:125px;
+  top:10px;
+  width:104px;
   word-wrap:break-word;
 }
 #u49_div {
@@ -302,8 +302,8 @@
 }
 #u49 {
   position:absolute;
-  left:19px;
-  top:10px;
+  left:11px;
+  top:24px;
   width:77px;
   height:22px;
   font-family:'Arial-BoldItalicMT', 'Arial Bold Italic', 'Arial';
@@ -322,7 +322,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:274px;
+  width:267px;
   height:22px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -338,9 +338,9 @@
 }
 #u51 {
   position:absolute;
-  left:185px;
-  top:10px;
-  width:274px;
+  left:146px;
+  top:24px;
+  width:267px;
   height:22px;
   font-family:'Arial-BoldItalicMT', 'Arial Bold Italic', 'Arial';
   font-weight:700;
@@ -351,28 +351,28 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:274px;
+  width:267px;
   word-wrap:break-word;
 }
 #u53_img {
   position:absolute;
   left:-2px;
   top:-2px;
-  width:1214px;
+  width:937px;
   height:19px;
 }
 #u53 {
   position:absolute;
-  left:99px;
-  top:246px;
-  width:1199px;
+  left:204px;
+  top:265px;
+  width:922px;
   height:4px;
 }
 #u54 {
   position:absolute;
   left:2px;
   top:-6px;
-  width:1195px;
+  width:918px;
   visibility:hidden;
   word-wrap:break-word;
 }
@@ -380,7 +380,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1927px;
+  width:1467px;
   height:1px;
   background:inherit;
   background-color:rgba(242, 242, 242, 1);
@@ -392,28 +392,28 @@
 }
 #u55 {
   position:absolute;
-  left:-237px;
-  top:531px;
-  width:1927px;
+  left:-52px;
+  top:536px;
+  width:1467px;
   height:1px;
 }
 #u56 {
   position:absolute;
   left:2px;
   top:-8px;
-  width:1923px;
+  width:1463px;
   visibility:hidden;
   word-wrap:break-word;
 }
 body.a {  background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/give_point/bg.jpg');
+  background-image:url('../../images/leader/bg.jpg');
   background-position:left top;
   background-repeat:no-repeat;
   background-attachment:scroll;
   background-size:1425px 801px;
   position:static;
   left:auto;
-  width:1453px;
+  width:1363px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -442,17 +442,17 @@ body.a {  background-color:rgba(255, 255, 255, 1);
 }
 #u32.a {
   position:absolute;
-  left:648px;
-  top:342px;
-  width:226px;
-  height:30px;
+  left:622px;
+  top:357px;
+  width:173px;
+  height:28px;
 }
 #u32_input.a {
   position:absolute;
   left:0px;
   top:0px;
-  width:226px;
-  height:30px;
+  width:173px;
+  height:28px;
   background-color:rgba(255, 255, 255, 0.156862745098039);
   font-family:'Impact';
   font-weight:900;
@@ -559,7 +559,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   position:absolute;
   left:0px;
   top:0px;
-  width:274px;
+  width:267px;
   height:22px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -587,7 +587,7 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   position:absolute;
   left:0px;
   top:0px;
-  width:1927px;
+  width:1467px;
   height:1px;
   background:inherit;
   background-color:rgba(242, 242, 242, 1);
@@ -600,14 +600,14 @@ body.a {  background-color:rgba(255, 255, 255, 1);
 #u56.a {
 }
 body.b {  background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/give_point/bg.jpg');
+  background-image:url('../../images/leader/bg.jpg');
   background-position:left top;
   background-repeat:no-repeat;
   background-attachment:scroll;
   background-size:1425px 801px;
   position:static;
   left:auto;
-  width:1453px;
+  width:1363px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -636,17 +636,17 @@ body.b {  background-color:rgba(255, 255, 255, 1);
 }
 #u32.b {
   position:absolute;
-  left:648px;
-  top:342px;
-  width:226px;
-  height:30px;
+  left:622px;
+  top:357px;
+  width:173px;
+  height:28px;
 }
 #u32_input.b {
   position:absolute;
   left:0px;
   top:0px;
-  width:226px;
-  height:30px;
+  width:173px;
+  height:28px;
   background-color:rgba(255, 255, 255, 0.156862745098039);
   font-family:'Impact';
   font-weight:900;
@@ -753,7 +753,7 @@ body.b {  background-color:rgba(255, 255, 255, 1);
   position:absolute;
   left:0px;
   top:0px;
-  width:274px;
+  width:267px;
   height:22px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -781,7 +781,7 @@ body.b {  background-color:rgba(255, 255, 255, 1);
   position:absolute;
   left:0px;
   top:0px;
-  width:1927px;
+  width:1467px;
   height:1px;
   background:inherit;
   background-color:rgba(242, 242, 242, 1);
@@ -794,14 +794,14 @@ body.b {  background-color:rgba(255, 255, 255, 1);
 #u56.b {
 }
 body.c {  background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/give_point/bg.jpg');
+  background-image:url('../../images/leader/bg.jpg');
   background-position:left top;
   background-repeat:no-repeat;
   background-attachment:scroll;
   background-size:1425px 801px;
   position:static;
   left:auto;
-  width:1453px;
+  width:1363px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -830,17 +830,17 @@ body.c {  background-color:rgba(255, 255, 255, 1);
 }
 #u32.c {
   position:absolute;
-  left:648px;
-  top:342px;
-  width:226px;
-  height:30px;
+  left:622px;
+  top:357px;
+  width:173px;
+  height:28px;
 }
 #u32_input.c {
   position:absolute;
   left:0px;
   top:0px;
-  width:226px;
-  height:30px;
+  width:173px;
+  height:28px;
   background-color:rgba(255, 255, 255, 0.156862745098039);
   font-family:'Impact';
   font-weight:900;
@@ -947,7 +947,7 @@ body.c {  background-color:rgba(255, 255, 255, 1);
   position:absolute;
   left:0px;
   top:0px;
-  width:274px;
+  width:267px;
   height:22px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -975,7 +975,7 @@ body.c {  background-color:rgba(255, 255, 255, 1);
   position:absolute;
   left:0px;
   top:0px;
-  width:1927px;
+  width:1467px;
   height:1px;
   background:inherit;
   background-color:rgba(242, 242, 242, 1);
@@ -988,14 +988,14 @@ body.c {  background-color:rgba(255, 255, 255, 1);
 #u56.c {
 }
 body.d {  background-color:rgba(255, 255, 255, 1);
-  background-image:url('../../images/give_point/bg.jpg');
+  background-image:url('../../images/leader/bg.jpg');
   background-position:left top;
   background-repeat:no-repeat;
   background-attachment:scroll;
   background-size:1425px 801px;
   position:static;
   left:auto;
-  width:1453px;
+  width:1363px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -1024,17 +1024,17 @@ body.d {  background-color:rgba(255, 255, 255, 1);
 }
 #u32.d {
   position:absolute;
-  left:648px;
-  top:342px;
-  width:226px;
-  height:30px;
+  left:622px;
+  top:357px;
+  width:173px;
+  height:28px;
 }
 #u32_input.d {
   position:absolute;
   left:0px;
   top:0px;
-  width:226px;
-  height:30px;
+  width:173px;
+  height:28px;
   background-color:rgba(255, 255, 255, 0.156862745098039);
   font-family:'Impact';
   font-weight:900;
@@ -1141,7 +1141,7 @@ body.d {  background-color:rgba(255, 255, 255, 1);
   position:absolute;
   left:0px;
   top:0px;
-  width:274px;
+  width:267px;
   height:22px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -1169,7 +1169,7 @@ body.d {  background-color:rgba(255, 255, 255, 1);
   position:absolute;
   left:0px;
   top:0px;
-  width:1927px;
+  width:1467px;
   height:1px;
   background:inherit;
   background-color:rgba(242, 242, 242, 1);
