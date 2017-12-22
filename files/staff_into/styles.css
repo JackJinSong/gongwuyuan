@@ -89,84 +89,7 @@
   width:274px;
   word-wrap:break-word;
 }
-#u424_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:119px;
-  height:64px;
-}
-#u424 {
-  position:absolute;
-  left:541px;
-  top:87px;
-  width:108px;
-  height:53px;
-  font-family:'SnellRoundhand-Black', 'Snell Roundhand Black', 'Snell Roundhand';
-  font-weight:900;
-  font-style:normal;
-  font-size:24px;
-  color:#000000;
-}
-#u425 {
-  position:absolute;
-  left:2px;
-  top:10px;
-  width:104px;
-  word-wrap:break-word;
-}
-#u426_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:119px;
-  height:64px;
-}
-#u426 {
-  position:absolute;
-  left:140px;
-  top:87px;
-  width:108px;
-  height:53px;
-  font-family:'STSongti-SC-Black', 'Songti SC Black', 'Songti SC';
-  font-weight:900;
-  font-style:normal;
-  font-size:24px;
-  color:#000000;
-}
-#u427 {
-  position:absolute;
-  left:2px;
-  top:10px;
-  width:104px;
-  word-wrap:break-word;
-}
-#u428_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:119px;
-  height:64px;
-}
-#u428 {
-  position:absolute;
-  left:880px;
-  top:87px;
-  width:108px;
-  height:53px;
-  font-family:'SnellRoundhand-Black', 'Snell Roundhand Black', 'Snell Roundhand';
-  font-weight:900;
-  font-style:normal;
-  font-size:24px;
-  color:#000000;
-}
-#u429 {
-  position:absolute;
-  left:2px;
-  top:10px;
-  width:104px;
-  word-wrap:break-word;
-}
+
 #u430_img {
   position:absolute;
   left:-2px;
@@ -189,16 +112,16 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u432_img {
+#u410_img {
   position:absolute;
   left:0px;
   top:0px;
   width:119px;
   height:64px;
 }
-#u432 {
+#u410 {
   position:absolute;
-  left:1180px;
+  left:140px;
   top:87px;
   width:108px;
   height:53px;
@@ -208,7 +131,111 @@
   font-size:24px;
   color:#000000;
 }
-#u433 {
+#u411 {
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:104px;
+  word-wrap:break-word;
+}
+#u412_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:119px;
+  height:64px;
+}
+#u412 {
+  position:absolute;
+  left:400px;
+  top:87px;
+  width:108px;
+  height:53px;
+  font-family:'STSongti-SC-Black', 'Songti SC Black', 'Songti SC';
+  font-weight:900;
+  font-style:normal;
+  font-size:24px;
+  color:#000000;
+}
+#u413 {
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:104px;
+  word-wrap:break-word;
+}
+#u414_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:119px;
+  height:64px;
+}
+#u414 {
+  position:absolute;
+  left:670px;
+  top:87px;
+  width:108px;
+  height:53px;
+  font-family:'SnellRoundhand-Black', 'Snell Roundhand Black', 'Snell Roundhand';
+  font-weight:900;
+  font-style:normal;
+  font-size:24px;
+  color:#000000;
+}
+#u415 {
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:104px;
+  word-wrap:break-word;
+}
+#u418_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:119px;
+  height:64px;
+}
+#u418 {
+  position:absolute;
+  left:900px;
+  top:87px;
+  width:108px;
+  height:53px;
+  font-family:'SnellRoundhand-Black', 'Snell Roundhand Black', 'Snell Roundhand';
+  font-weight:900;
+  font-style:normal;
+  font-size:24px;
+  color:#000000;
+}
+#u419 {
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:104px;
+  word-wrap:break-word;
+}
+#u701_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:119px;
+  height:64px;
+}
+#u701 {
+  position:absolute;
+  left:1180px;
+  top:80px;
+  width:108px;
+  height:53px;
+  font-family:'SnellRoundhand-Black', 'Snell Roundhand Black', 'Snell Roundhand';
+  font-weight:900;
+  font-style:normal;
+  font-size:24px;
+  color:#000000;
+}
+#u702 {
   position:absolute;
   left:2px;
   top:10px;

@@ -512,3 +512,48 @@ body.d {  background-color:rgba(255, 255, 255, 1);
 }
 #u405.d {
 }
+#u600{
+  position:absolute;
+  left: 500px;
+  top: 400px;
+  width: 220px;
+  height: 400px;
+}
+
+#u700_input {
+  position:absolute;
+  left:220px;
+  top:-50px;
+  width:270px;
+  height:200px;
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  text-decoration:none;
+  color:#000000;
+  text-align:left;
+}
+#u700_button {
+  position: absolute;
+  left: 255px;
+  top: 170px;
+
+}
+#u313{
+  position: absolute;
+  left: 180px;
+  top: 200px
+}
+#u314{
+  position: absolute;
+  left: 45px;
+  top: 15%;
+  width:55px;
+  height:25px;
+  font-family:'Impact';
+  font-weight:900;
+  font-style:normal;
+  font-size:18px;
+
+}
